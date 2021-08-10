@@ -1,0 +1,114 @@
+body{
+    font-family: 'Lobster', cursive;
+  
+}
+.headersection {
+    background-color: rgb(14, 37, 29);
+   
+    
+}
+
+
+.aboutme{
+    
+
+   background-color: rgb(251, 255, 255);
+    border-radius: 5%;
+    border: 2px solid;
+    box-shadow: 2px 2px 2px  rgb(196, 196, 194);
+    text-overflow: ellipsis;
+}
+.paragraph{
+
+    text-align: justify;
+}
+.fontend{
+
+    background-color: azure;
+    height: 800px;
+    width: 70px;
+}
+.htmll{
+
+    color: black;
+   font-size: 36px;
+   
+  
+}
+
+.fa-html5{
+
+    color: #e34c26;
+}
+.fa-node-js{
+
+    color: #F0DB4F;
+}
+.fa-bootstrap{
+    color: #602C50;
+}
+.fa-node{
+
+    color: #3C873A;
+}
+.fa-github-alt{
+
+    color: black;
+}
+.text_color{
+
+    text-decoration: none;
+    font-size: xx-large;
+    color: black;
+}
+.bg{
+    background-color:rgb(245, 239, 239);
+}
+
+
+/* Hover Effect */
+
+.hovereffect:hover{
+
+    box-shadow: -1px 9px 40px -12px rgba(0, 0,0, 0.5) ;
+    transition:  all 0.5s linear;
+    transform: scale(1.1);
+}
+
+.resumebutton{
+
+    text-decoration: none;
+    background-image: linear-gradient( red,orange);
+    padding: 20px 40px;
+    border-radius: 40px;
+    font-size: 20px;
+    color: white;
+    box-shadow: 2px 2px 24px rgb(204, 201, 201);
+}
+.fab{
+
+    width: 80px;
+    height: 40px;
+}
+a i{
+   
+    transition:  all 0.4s linear;
+}
+a:hover i{
+    transform: scale(1.8);
+}
+.footer-bg{
+    
+   padding: 2%;
+    justify-content: center;
+    align-items: center;
+
+}
+.fa-youtube{
+
+    color: red;
+}
+.vavbg{
+
+    background-color: rgb(4, 76, 52);
+}
